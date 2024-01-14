@@ -12,19 +12,20 @@ const Hero = () => {
             <h5
               data-aos="fade-right"
               data-aos-duration="1500"
-              className="text-headingColor font -[600] text-[16px]"
+              className="text-slate-700 font-[300] text-[16px]"
             >
-              Hello Welcome
+              Get Discount on your Bills
             </h5>
             <h1
               data-aos="fade-up"
               data-aos-duration="1500"
-              className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px]"
+              className="text-headingColor font-serif text-[1.8rem] sm:text-[40px]"
             >
-              I'm Sayyam Butt
-              <br className="text-titleTextColor font-mono text-[1.8rem] sm:text-[45px]"/>
-              QuestBill World
+              Welcome to
+           
             </h1>
+            <h2  className="text-primaryColor font-sans md:font-serif text-[1.8rem] sm:text-[45px]">
+              QuestBill World</h2>
             {/*==========Hire ME Button ==========*/}
             <div
               data-aos="fade-up"
@@ -34,16 +35,16 @@ const Hero = () => {
             >
               <a href="#Contact">
                 <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]">
-                  <i class="ri-mail-line"></i>Hire me
+                  <i class="ri-mail-line"></i>Email us
                 </button>
               </a>
               {/*========== See Portfolio ==========*/}
-              <a
+              {/* <a
                 href="#portfolio"
                 className="text-smallText font-[600] text-[16px] border-b border-solid border-smallTextColor"
               >
                 See Portfolio
-              </a>
+              </a> */}
               {/*========== Intro ParaGraph ==========*/}
             </div>
             <p
