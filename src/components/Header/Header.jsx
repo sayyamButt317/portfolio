@@ -25,22 +25,22 @@ const Header = () => {
           <div className="menu">
             <ul className="flex items-center gap-10">
               <li>
-                <a className="text-smallTextColor font-[600]" href="#about">
+                <a className="text-smallTextColor font-sans md:font-serif " href="#about">
                   About
                 </a>
               </li>
               <li>
-                <a className="text-smallTextColor font-[600]" href="#about">
+                <a className="text-smallTextColor font-sans md:font-serif " href="#about">
                   Services
                 </a>
               </li>
               <li>
-                <a className="text-smallTextColor font-[600]" href="#about">
+                <a className="text-smallTextColor font-sans md:font-serif " href="#about">
                   Portfolio
                 </a>
               </li>
               <li>
-                <a className="text-smallTextColor font-[600]" href="#about">
+                <a className="text-smallTextColor font-sans md:font-serif " href="#about">
                   Contact
                 </a>
               </li>

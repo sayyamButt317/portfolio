@@ -16,7 +16,11 @@ const Service = () => {
           </p>
         </div>
       </div>
+  
+
+
     </section>
+    
   );
 };
 
