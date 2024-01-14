@@ -3,7 +3,7 @@ import React from "react";
 const Service = () => {
   return (
     <section id="service">
-      <div className="container lg:pt-5">
+      <div className="container flex justify-center items-center lg:pt-5">
         <div className="text-center">
           <h2 className="text-headingColor font-[800] text-[2.4rem] mb-5 ">
             You do the business, we’ll handle your Bills.
