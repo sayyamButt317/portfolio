@@ -14,7 +14,7 @@ const Card = () => {
         </a>
         <div class="px-5 pb-5">
           <a href="#">
-            <h5 class="text-xl font-ui-serif tracking-tight text-gray-300 dark:text-white">
+            <h5 class="text-xl font-ui-serif tracking-tight text-black-300 dark:text-white">
               Money is only a tool. It will take you wherever you wish, but it
               will not replace you as the driver.
             </h5>
@@ -60,7 +60,7 @@ const Card = () => {
         </a>
         <div class="px-5 pb-5">
           <a href="#">
-            <h5 class="text-xl font-ui-serif tracking-tight text-gray-300 dark:text-white">
+            <h5 class="text-xl font-ui-serif tracking-tight text-black-300 dark:text-white">
               Money is only a tool. It will take you wherever you wish, but it
               will not replace you as the driver.
             </h5>
@@ -106,7 +106,7 @@ const Card = () => {
         </a>
         <div class="px-5 pb-5">
           <a href="#">
-            <h5 class="text-xl font-ui-serif tracking-tight text-gray-300 dark:text-white">
+            <h5 class="text-xl font-ui-serif tracking-tight text-black-300 dark:text-white">
               Money is only a tool. It will take you wherever you wish, but it
               will not replace you as the driver.
             </h5>
