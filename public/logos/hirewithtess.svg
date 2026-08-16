@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 40" fill="none">
+  <rect width="40" height="40" rx="10" fill="#0f172a"/>
+  <path d="M12 10h16v4.2H23.2V30H16.8V14.2H12V10z" fill="#fff"/>
+  <text x="52" y="27" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#fff">Hirewithtess</text>
+</svg>
